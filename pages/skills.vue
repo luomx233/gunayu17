@@ -5,7 +5,7 @@ const navitems = await $fetch("/api/index/skillsNav");
 
 <template>
   <div>
-    <Content img-url="http://www.guanyu17.com/upfile/Banner/service.jpg">
+    <Content img-url="/iamges/banner/service.jpg">
       <template #list>
         <List title="技术资料" :list-items="navitems"></List>
         <ContactUs></ContactUs>

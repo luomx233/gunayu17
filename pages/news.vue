@@ -5,7 +5,7 @@ const navitems = await $fetch("/api/index/newsNav");
 
 <template>
   <div>
-    <Content img-url="http://www.guanyu17.com/upfile/Banner/news.jpg">
+    <Content img-url="/iamges/banner/news.jpg">
       <template #list>
         <List title="新闻中心" :list-items="navitems"></List>
         <ContactUs></ContactUs>

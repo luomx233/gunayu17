@@ -3,7 +3,7 @@ export default defineEventHandler(async (e) => {
   console.log("进入getdetailbyid");
   const productsInfo = {
     title: "产品id" + productId,
-    imgurl: "http://www.guanyu17.com/upfile/spaq/spaqjcy01.jpg",
+    imgurl: "/images/spaqjcy01.jpg",
     productInfo: {
       name: "产品名称：" + productId,
       type: "GY-DS1008",

@@ -14,7 +14,7 @@
 
 <style scoped>
 .header {
-  background-image: url(http://www.guanyu17.com/image/index_tit.png);
+  background-image: url(/images/index_tit.png);
   background-repeat: no-repeat;
   height: 40px;
   padding-left: 25px;

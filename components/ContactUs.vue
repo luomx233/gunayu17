@@ -3,11 +3,7 @@
 <template>
   <div class="text-xl text-white bg-blue-500 p-4">联系我们</div>
   <div class="p-4">
-    <img
-      src="http://www.guanyu17.com/image/contact.jpg"
-      class="w-full"
-      alt=""
-    />
+    <img src="/iamges/banner/contactus.jpg" class="w-full" alt="" />
     河南冠宇仪器有限公司 <br />
     全国统一服务热线：4009 667 696 <br />
     电话：0371-68186699 <br />

@@ -1,18 +1,18 @@
 export default defineEventHandler((e) => [
   {
-    imgUrl: "http://www.guanyu17.com/upfile/Banner/shipinanquan.jpg",
+    imgUrl: "/images/shouye1.jpg",
     linkto: "/",
   },
   {
-    imgUrl: "http://www.guanyu17.com/upfile/20211124/121nc.jpg",
+    imgUrl: "/images/shouye2.jpg",
     linkto: "/",
   },
   {
-    imgUrl: "http://www.guanyu17.com/upfile/Banner/huanjingshuizhi.jpg",
+    imgUrl: "/images/shouye3.jpg",
     linkto: "/",
   },
   {
-    imgUrl: "http://www.guanyu17.com/upfile/Banner/yingguangmi.jpg",
+    imgUrl: "/images/shouye4.jpg",
     linkto: "/",
   },
-])
+]);

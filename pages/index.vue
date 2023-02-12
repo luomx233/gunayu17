@@ -56,7 +56,7 @@ const recommendArticle = await $fetch("/api/index/recommendArticle");
       </div>
       <div class="content2 iamge1 mt-4 mb-4">
         <img
-          src="http://www.guanyu17.com/image/index_img2.png"
+          src="/images/divideline/index_img1.png"
           alt=""
           class="w-full mt-2 mb-2"
         />
@@ -132,7 +132,7 @@ const recommendArticle = await $fetch("/api/index/recommendArticle");
       </div>
       <div class="content3 image2 mt-4 mb-4">
         <img
-          src="http://www.guanyu17.com/image/index_img1.png"
+          src="/images/divideline/index_img2.png"
           alt=""
           class="w-full mt-2 mb-2"
         />

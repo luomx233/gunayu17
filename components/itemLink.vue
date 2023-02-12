@@ -10,8 +10,7 @@ const { title, id } = defineProps(["title", "id"]);
 
 <style scoped>
 .itemLink {
-  background: url(http://www.guanyu17.com/image/option.png) left center
-    no-repeat;
+  background: url(/images/option.png) left center no-repeat;
   line-height: 28px;
   overflow: hidden;
   white-space: nowrap;

@@ -3,7 +3,7 @@
 <template>
   <div class="grid grid-cols-4">
     <div class="justify-self-end">
-      <img src="http://www.guanyu17.com/image/phone_icon.png" alt="" />
+      <img src="/images/phone_icon.png" alt="" />
     </div>
     <div class="col-span-3">
       全国统一免费服务热线 <br />
