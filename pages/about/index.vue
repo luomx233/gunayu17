@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    <Content img-url="http://www.guanyu17.com/upfile/Banner/contact.jpg">
+    <Content img-url="/images/banner/contact.jpg">
       <template #list>
         <ContactUs></ContactUs>
       </template>
@@ -24,7 +24,7 @@
           </div>
           <div class="col-span-1">
             <img
-              src="http://www.guanyu17.com/php2019/wenzhang/kindeditor/attached/image/20190524/20190524143135_61281.gif"
+              src="/images/banner/20190524143135_61281.gif"
               alt=""
             />
           </div>

@@ -25,7 +25,7 @@ console.log(productdetail);
 </script>
 <template>
   <div>
-    <Content img-url="http://www.guanyu17.com/upfile/Banner/shipinanquan.jpg">
+    <Content img-url="/images/banner/shipinanquan.jpg">
       <template #list>
         <List title="推荐产品" :list-items="recommend"></List>
         <ContactUs></ContactUs>

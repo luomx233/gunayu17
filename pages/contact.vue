@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    <Content img-url="/iamges/banner/contact.jpg">
+    <Content img-url="/images/banner/contact.jpg">
       <template #list>
         <ContactUs></ContactUs>
       </template>
@@ -23,7 +23,7 @@
             邮编：451100
           </div>
           <div class="col-span-1">
-            <img src="/iamges/banner/20190524143135_61281.gif" alt="" />
+            <img src="/images/banner/20190524143135_61281.gif" alt="" />
           </div>
         </div>
       </template>

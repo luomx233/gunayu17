@@ -14,7 +14,7 @@ watchEffect(async () => {
 
 <template>
   <div class="">
-    <Content img-url="http://www.guanyu17.com/upfile/Banner/shipinanquan.jpg">
+    <Content img-url="/images/banner/shipinanquan.jpg">
       <template #list>
         <List
           :title="productsInfo.title"
